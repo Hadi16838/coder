@@ -6,3 +6,4 @@
 *This text is italic*\
 ***This text is both bold and italic***\
 ~~OOPS I made an error~~
+# Lab 02 task 1
